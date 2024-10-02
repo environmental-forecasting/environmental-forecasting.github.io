@@ -1,7 +1,0 @@
-remote_theme: pages-themes/minimal@v0.2.0
-plugins:
-- jekyll-remote-theme
-
-title: Environmental Forecasting
-description: Welcome to the Environmental Forecasting Organisation, a community-led approach to building tools that can be used for forecasting within the environmental sciences. It's (only at present) an initiative started by The British Antarctic Survey and The Alan Turing Institute.
-show_downloads: "false"
